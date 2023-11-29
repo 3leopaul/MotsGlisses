@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Algo\\A2\\projet_S3\\MotsGlisses\\MotsGlisses.csproj": {}
+    "D:\\Algo\\A2\\projet_S3\\dictionnaire\\MotsGlisses.csproj": {}
   },
   "projects": {
-    "D:\\Algo\\A2\\projet_S3\\MotsGlisses\\MotsGlisses.csproj": {
+    "D:\\Algo\\A2\\projet_S3\\dictionnaire\\MotsGlisses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Algo\\A2\\projet_S3\\MotsGlisses\\MotsGlisses.csproj",
+        "projectUniqueName": "D:\\Algo\\A2\\projet_S3\\dictionnaire\\MotsGlisses.csproj",
         "projectName": "MotsGlisses",
-        "projectPath": "D:\\Algo\\A2\\projet_S3\\MotsGlisses\\MotsGlisses.csproj",
+        "projectPath": "D:\\Algo\\A2\\projet_S3\\dictionnaire\\MotsGlisses.csproj",
         "packagesPath": "C:\\Users\\leopa\\.nuget\\packages\\",
-        "outputPath": "D:\\Algo\\A2\\projet_S3\\MotsGlisses\\obj\\",
+        "outputPath": "D:\\Algo\\A2\\projet_S3\\dictionnaire\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

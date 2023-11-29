@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CKvNL7BXTJMLu919bv+H7DS6xYBSwMlSQCM2w9pQfYel3D7LuWceJIxhCjNTaNel13iCjjC14KW6++9phfGivA==",
+  "dgSpecHash": "dbJfFwL680M41MBckMe5Qsha6Iv9e2Zix8tStgRS8dWr8o3MbMLBsYu6jM6uxzlNwSEjKkx/UKVBkGtPsgN9tg==",
   "success": true,
-  "projectFilePath": "D:\\Algo\\A2\\projet_S3\\MotsGlisses\\MotsGlisses.csproj",
+  "projectFilePath": "D:\\Algo\\A2\\projet_S3\\dictionnaire\\MotsGlisses.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

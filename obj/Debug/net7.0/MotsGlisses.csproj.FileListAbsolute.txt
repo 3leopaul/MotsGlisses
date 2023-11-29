@@ -1,0 +1,4 @@
+D:\Algo\A2\projet_S3\dictionnaire\obj\Debug\net7.0\MotsGlisses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algo\A2\projet_S3\dictionnaire\obj\Debug\net7.0\MotsGlisses.AssemblyInfoInputs.cache
+D:\Algo\A2\projet_S3\dictionnaire\obj\Debug\net7.0\MotsGlisses.AssemblyInfo.cs
+D:\Algo\A2\projet_S3\dictionnaire\obj\Debug\net7.0\MotsGlisses.csproj.CoreCompileInputs.cache
