@@ -2,3 +2,13 @@ D:\Algo\A2\projet_S3\dictionnaire\obj\Debug\net7.0\MotsGlisses.GeneratedMSBuildE
 D:\Algo\A2\projet_S3\dictionnaire\obj\Debug\net7.0\MotsGlisses.AssemblyInfoInputs.cache
 D:\Algo\A2\projet_S3\dictionnaire\obj\Debug\net7.0\MotsGlisses.AssemblyInfo.cs
 D:\Algo\A2\projet_S3\dictionnaire\obj\Debug\net7.0\MotsGlisses.csproj.CoreCompileInputs.cache
+D:\Algo\A2\projet_S3\dictionnaire\bin\Debug\net7.0\MotsGlisses.exe
+D:\Algo\A2\projet_S3\dictionnaire\bin\Debug\net7.0\MotsGlisses.deps.json
+D:\Algo\A2\projet_S3\dictionnaire\bin\Debug\net7.0\MotsGlisses.runtimeconfig.json
+D:\Algo\A2\projet_S3\dictionnaire\bin\Debug\net7.0\MotsGlisses.dll
+D:\Algo\A2\projet_S3\dictionnaire\bin\Debug\net7.0\MotsGlisses.pdb
+D:\Algo\A2\projet_S3\dictionnaire\obj\Debug\net7.0\MotsGlisses.dll
+D:\Algo\A2\projet_S3\dictionnaire\obj\Debug\net7.0\refint\MotsGlisses.dll
+D:\Algo\A2\projet_S3\dictionnaire\obj\Debug\net7.0\MotsGlisses.pdb
+D:\Algo\A2\projet_S3\dictionnaire\obj\Debug\net7.0\MotsGlisses.genruntimeconfig.cache
+D:\Algo\A2\projet_S3\dictionnaire\obj\Debug\net7.0\ref\MotsGlisses.dll

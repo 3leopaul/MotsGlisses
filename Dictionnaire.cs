@@ -34,7 +34,7 @@ namespace MotsGlisses
 
 
         // Methode recherche RechDichoRecursif(Pas validée encore) :
-        static bool RechDichoRecursif(int debut, int fin, string[] dico, string mot)
+        public static bool RechDichoRecursif(int debut, int fin, string[] dico, string mot)
         {
             if(fin<debut || dico==null || dico.Length==0|| String.Compare(dico[fin],mot)==-1 || String.Compare(mot,dico[debut])==-1){
                 return false;

@@ -1,17 +1,15 @@
-﻿using System.Collections.Generic;
-using Internal;
-using System;
+﻿using System;
 
 namespace MotsGlisses
 {
-    public class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
             string[] st = {"Aaa","Aab","Aba","Caa","Zo"};
-            Dictionaire dicoT = new Dictionnaire("Dico1", st);
-            Console.WriteLine(RechDichoRecursif(0,4,dicoT.DicoTemp,"Aba"));
+            Dictionnaire dicoT = new Dictionnaire("Dico1", st);
+            Console.WriteLine(Dictionnaire.RechDichoRecursif(0,4,dicoT.DicTemp,"Aba"));
         }
     }
 }
