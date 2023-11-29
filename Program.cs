@@ -9,7 +9,8 @@ namespace MotsGlisses
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Dictionaire dicoT = new Dictionnaire("Dico1", {"Aaa","Aab","Aba","Caa","Zo"});
+            string[] st = {"Aaa","Aab","Aba","Caa","Zo"};
+            Dictionaire dicoT = new Dictionnaire("Dico1", st);
             Console.WriteLine(RechDichoRecursif(0,4,dicoT.DicoTemp,"Aba"));
         }
     }

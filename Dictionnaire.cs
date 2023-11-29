@@ -18,12 +18,18 @@ namespace MotsGlisses
             this.dicTemp=d;
         }
 
-        public string NomTemp(){
-            get{return nomTemp;}
+        public string NomTemp{
+            get
+            {
+                return this.nomTemp;
+            }
         }
 
         public string[] DicTemp{
-            get{return dicTemp;}
+            get
+            {
+                return this.dicTemp;
+            }
         }
 
 
