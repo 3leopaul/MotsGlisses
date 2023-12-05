@@ -17,6 +17,7 @@ namespace joueur
             this.mots = new List<string>();
             this.score=0;
         }
+                
         public string Nom{         //PROPRIETES
             get{return this.nom;}
         }
@@ -27,7 +28,7 @@ namespace joueur
             get{return this.score;}
 
         }
-        public void Add_Mot(string mot)
+        public void Add_Mot(string mot)            //METHODES
         {
             Mots.Add(mot);
         }
@@ -35,7 +36,7 @@ namespace joueur
         {
             return("Joueur : "+this.nom+" Points : "+this.score);
         }
-        public void Add_Score(string mot)
+        public void Add_Score(string mot)     
         {
             int val=0;
             for(int i=0;i<mot.Length;i++)
@@ -65,6 +66,11 @@ namespace joueur
                     val+=10;
                 }
             }
+            this.score=val;
+        }
+        public bool Contient(string mot)
+        {
+            return Mots.Contains(mot);
         }
     }
 }
