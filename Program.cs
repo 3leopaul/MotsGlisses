@@ -10,7 +10,7 @@ namespace MotsGlisses
             string nomFichier = "Mots_Français.txt";
             Dictionnaire dico = new Dictionnaire(nomFichier, "Francais");
             Console.Write(dico.DicoToString());
-            Console.WriteLine(dico.RechDicoRecursifInstance("jygyjgy"));
+            Console.WriteLine(dico.RechDichoRecursifInstance("jygyjgy"));
         }
     }
 }

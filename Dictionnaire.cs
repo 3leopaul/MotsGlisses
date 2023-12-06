@@ -82,16 +82,16 @@ namespace MotsGlisses
         }
 
         //fin methode DicoToString
-        public bool RechDicoRecursifInstance(string mot){
+        public bool RechDichoRecursifInstance(string mot){
             bool b= false;
             for(int i=0; i<26 && b==false; i++){
-                b=RechDicoRecursif(0,dicoTab[i].Length-1, dicoTab[i], mot);
+                b=RechDichoRecursif(0,dicoTab[i].Length-1, dicoTab[i], mot);
             }
             return b;
         }
         // Methode recherche RechDichoRecursif(Pas validée encore)(Mais ca marche donc je pense que c'est validé :)) :
 
-        public static bool RechDicoRecursif(int debut, int fin, string[] dico, string mot)
+        public static bool RechDichoRecursif(int debut, int fin, string[] dico, string mot)
         {
             if(fin<debut || dico==null || dico.Length==0|| String.Compare(dico[fin],mot)==-1 || String.Compare(mot,dico[debut])==-1){
                 return false;
@@ -101,7 +101,7 @@ namespace MotsGlisses
                     return true;
                 }if(String.Compare(dico[c], mot)==-1){
                     debut=c+1;
-                    return RechDicoRecursif(debut, fin, dico, mot);
+                    return RechDichoRecursif(debut, fin, dico, mot);
                 }if(debut==fin){
                     if(dico[c]==mot){
                         return true;
@@ -110,7 +110,7 @@ namespace MotsGlisses
                     }
                 }else{
                     fin=c-1;
-                    return RechDicoRecursif(debut, fin, dico, mot);
+                    return RechDichoRecursif(debut, fin, dico, mot);
                 }
             }else{
                 return false;
